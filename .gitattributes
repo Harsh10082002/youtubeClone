@@ -1,0 +1,9 @@
+package-lock.json filter=lfs diff=lfs merge=lfs -text
+package.json filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+tailwind.config.js filter=lfs diff=lfs merge=lfs -text
+utils filter=lfs diff=lfs merge=lfs -text
+App.js filter=lfs diff=lfs merge=lfs -text
+dist filter=lfs diff=lfs merge=lfs -text
+node_modules filter=lfs diff=lfs merge=lfs -text
+.parcel-cache/data.mdb filter=lfs diff=lfs merge=lfs -text
